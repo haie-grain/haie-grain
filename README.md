@@ -1,4 +1,4 @@
-## Hi there and welcom to my account👋
+## Hi there and welcome to my account👋
 ### 😄 check my stats and my top langs
 [![haie's GitHub stats](https://github-readme-stats.vercel.app/api?username=haie-grain&theme=ambient_gradient&show_icons=true)](https://github.com/haie-grain/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haie-grain&hide=c,makefile,swift,roff,cmake,c%2B%2B&layout=donut&theme=ambient_gradient&show_icons=true)](https://github.com/haie-grain/github-readme-stats)
